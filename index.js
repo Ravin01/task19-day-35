@@ -25,7 +25,7 @@ app.get("/", function (req, res) {
     console.log("completed writing file : ", fileName);
   });
   res.send(
-    `Completed Writing File, File name : ${fileName}, Content of the file is : ${data}, urlPath : /api to get all the files`
+    `Completed Writing File, File name : ${fileName}, Content of the file is : ${data}, urlPath : /file to get all the files`
   );
 });
 
