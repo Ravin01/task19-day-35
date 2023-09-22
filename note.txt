@@ -2,4 +2,4 @@ Render url : https://task19-day-35.onrender.com/
 Github url : https://github.com/Ravin01/task19-day-35
 api end point : 
   1. / - knowing the file was created
-  2. /api - Accessing the file content in array format
+  2. /file - Accessing the file content in array format
